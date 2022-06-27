@@ -34,9 +34,9 @@ Excellente = 5
 | Divi          | 2             |
 | Angular       | 2             |
 | Kali-linux    | 2             |
+| Archlinux     | 2             |
 | ASP.NET       | 1             |
 | Maldev        | 1             |
-| Archlinux     | 1             |
 | Tails         | 1             |
 | Maldev        | 1             |
 | Réseau        | 1             |

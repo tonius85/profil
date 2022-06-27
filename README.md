@@ -2,12 +2,20 @@
 
 Liste des choses étudiées..
 
+Maitrise : 
+
 Très mauvaise = 0
+
 Mauvaise = 1
+
 Moyenne = 2
+
 Bonne = 3
+
 Très bonne = 4
-Excellente = 4
+
+Excellente = 5
+
 
 | Compétence    | Maitrise      |
 | ------------- |:-------------:|
@@ -40,5 +48,7 @@ Excellente = 4
 | ASM           | 0             |
 | Python        | 0             |
 
+
 Rootme : https://www.root-me.org/tonius?lang=fr
+
 YesWeHack : https://yeswehack.com/hunters/tonius
